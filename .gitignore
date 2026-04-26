@@ -1,0 +1,7 @@
+.env
+data/raw/
+__pycache__/
+*.pyc
+.chroma/
+data/processed/*.csv
+data/processed/*.duckdb
